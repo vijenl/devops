@@ -2,3 +2,6 @@ this is feature 6
 
 
 new lines added
+
+
+added again new lines
