@@ -1,4 +1,4 @@
 this is feature 6
 
+new lines added
 
-new feature 6 working for conflict
